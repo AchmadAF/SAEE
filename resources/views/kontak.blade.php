@@ -9,6 +9,7 @@
     </div>
     <div class="row mt-3">
         <div class="col-6">
+            
             <b>Alamat</b>
             <p>Dsn.Khoripan Rt.03 Rw.02 Ds.Bangsongan  Kec. Kayen Kidul Kab. Kediri</p>
             <b>Telepon</b>
