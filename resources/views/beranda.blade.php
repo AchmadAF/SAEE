@@ -59,13 +59,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <div class="col-md-6 order-first order-md-2">
         <div class="mb-4 mt-4 d-flex justify-content-center">
           <div class="bg-image"style="max-width: 10rem;">
-            <img src="img/buku/het/SD/1.png" style="width: 10rem" />
+            <img src="img/buku/het/SD/1.png" class="w-100" />
           </div>
           <div class="bg-image" style="max-width: 10rem;">
-            <img src="img/buku/het/SMP/1.png"  style="width: 10rem" />
+            <img src="img/buku/het/SMP/1.png"  class="w-100" />
           </div>
           <div class="bg-image" style="max-width: 10rem;">
-            <img src="img/buku/het/SMP/1.png"  style="width: 10rem" />
+            <img src="img/buku/het/SMP/1.png"  class="w-100" />
           </div>
         </div>
     </div>
@@ -85,17 +85,16 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   </div>
   <div class="col-md-6 order-first order-md-2">
     <div class="mb-4 mt-4 d-flex justify-content-center">
-      <div class="bg-image"style="max-width: 10rem;">
-        <img src="img/buku/pls/keagamaan/SD/agama (1).png" style="width: 10rem" />
+      <div class="bg-image"style="max-width: 10em;">
+        <img src="img/buku/pls/keagamaan/SD/agama (1).png" class="w-100" />
       </div>
       <div class="bg-image" style="max-width: 10rem;">
-        <img src="img/buku/pls/mulok/SD/mulok (1).png" style="width: 10rem" />
+        <img src="img/buku/pls/mulok/SD/mulok (1).png" class="w-100" />
       </div>
       <div class="bg-image" style="max-width: 10rem;">
-        <img src="img/buku/pls/pendamping/SD/pdpp (1).png" style="width: 10rem" />
+        <img src="img/buku/pls/pendamping/SD/pdpp (1).png" class="w-100" />
       </div>
     </div>
-  
 </div>
 </div>
 </div>
@@ -104,11 +103,11 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     <h2 class="text-white">KATALOG</h2>
     <div class="mb-4 mt-4 d-flex justify-content-center">
             <div class="bg-image me-2" data-mdb-ripple-color="light"
-              style="max-width: 10rem;">
+              style="max-width: 8rem;">
               <img src="img/katalog/baru/1. KATALOG BUKU HET - PAUD-1.png" class="w-100" alt="Louvre" />
             </div>
             <div class="bg-image ms-3" data-mdb-ripple-color="light"
-              style="max-width: 10rem;">
+              style="max-width: 8rem;">
               <img src="img/katalog/baru/1. KATALOG BUKU REGULER SAE - SD-1.png" class="w-100" alt="Louvre" />
             </div>
     </div>
