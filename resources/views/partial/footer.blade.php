@@ -39,7 +39,24 @@
       </div>
   
       <div class="col mb-3">
-        
+        <h5>KOTAK SARAN</h5>
+        <form method="post" action="#">
+             
+          <div class="form-group mb-2">
+            <input type="text" class="form-control" name="nama" placeholder="Masukkan Nama">
+          </div>
+       
+          <div class="form-group mb-2">
+            <input type="email" class="form-control" name="email" placeholder="Masukkan Email">
+          </div>
+       
+          <div class="form-group mb-2">
+            <textarea name="pesan" class="form-control" cols="30" rows="4" style="resize:none;"></textarea>
+          </div>
+       
+          <input class="btn btn-primary form-control" type="submit" value="Kirim">
+       
+        </form>
       </div>
     </footer>
   </div>

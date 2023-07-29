@@ -11,7 +11,7 @@
         <div class="col-6">
             
             <b>Alamat</b>
-            <p>Dsn.Khoripan Rt.03 Rw.02 Ds.Bangsongan  Kec. Kayen Kidul Kab. Kediri</p>
+            <p>Dsn.Koripan Rt.03 Rw.02 Ds.Bangsongan  Kec. Kayen Kidul Kab. Kediri</p>
             <b>Telepon</b>
             <p>0821 4066 6588</p>
             <b>Jam Kerja</b>
