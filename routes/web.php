@@ -20,7 +20,7 @@ Route::get('/buku', [UtamaController::class,'buku']);
 Route::get('/katalog', [UtamaController::class,'katalog']);
 Route::get('/tentang-kami', [UtamaController::class,'tentangkami']);
 Route::get('/kontak', [UtamaController::class,'kontak']);
-
+Route::get('/marketplace', [UtamaController::class,'marketplace']);
 
 Auth::routes();
 

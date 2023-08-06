@@ -18,9 +18,9 @@
             <li class="nav-item">
               <a class="nav-link {{ Request::is('/') ? 'active' : '' }}" href="{{url('/')}}">Beranda</a>
             </li>
-            <li class="nav-item">
+            {{-- <li class="nav-item">
               <a class="nav-link {{ Request::is('buku') ? 'active' : '' }}" href="{{url('buku')}}">Buku</a>
-            </li>
+            </li> --}}
             <li class="nav-item">
               <a class="nav-link {{ Request::is('katalog') ? 'active' : '' }}" href="{{url('katalog')}}">Katalog</a>
             </li>
@@ -31,19 +31,13 @@
               <ul class="dropdown-menu" aria-labelledby="tentang-kami">
                 <li><a class="dropdown-item" href="#">Company Profile</a></li>
                 <li><a class="dropdown-item" href="#">Portofolio</a></li>
-                <li><a class="dropdown-item" href="#">Marketplace</a></li>
+                <li><a class="dropdown-item {{ Request::is('marketplace') ? 'active' : '' }}" href="{{url('marketplace')}}">Marketplace</a></li>
                 <li><a class="dropdown-item" href="#">Galeri</a></li>
-              </ul>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="karir" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Karir
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="karir">
-                <li><a class="dropdown-item" href="#">Marketing</a></li>
-                <li><a class="dropdown-item" href="#">Publishing</a></li>
                 <li><a class="dropdown-item" href="#">Sertifikasi / Penghargaan</a></li>
               </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {{ Request::is('kontak') ? 'active' : '' }}" href="{{url('#')}}">Lowongan Pekerjaan</a>
             </li>
             <li class="nav-item">
               <a class="nav-link {{ Request::is('kontak') ? 'active' : '' }}" href="{{url('kontak')}}">Kontak</a>
@@ -53,7 +47,7 @@
                 Layanan
               </a>
               <ul class="dropdown-menu" aria-labelledby="layanan">
-                <li><a class="dropdown-item" href="#">Capaian Pembelajaran</a></li>
+                <li><a class="dropdown-item" href="#">Perangkat Pembelajaran</a></li>
                 <li><a class="dropdown-item" href="#">Alur Pembayaran</a></li>
               </ul>
             </li>

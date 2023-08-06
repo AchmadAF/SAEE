@@ -37,6 +37,10 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
                 <li class="splide__slide"><img src="img/slider/slide (6).png" class="d-block w-100"></li>
                 <li class="splide__slide"><img src="img/slider/slide (7).png" class="d-block w-100"></li>
                 <li class="splide__slide"><img src="img/slider/slide (8).png" class="d-block w-100"></li>
+                <li class="splide__slide"><img src="img/slider/slide (9).png" class="d-block w-100"></li>
+                <li class="splide__slide"><img src="img/slider/slide (10).png" class="d-block w-100"></li>
+                <li class="splide__slide"><img src="img/slider/slide (11).png" class="d-block w-100"></li>
+                <li class="splide__slide"><img src="img/slider/slide (12).png" class="d-block w-100"></li>
             </ul>
         </div>
     </div>
@@ -52,7 +56,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             <p class="card-text">
               Buku pelajaran sekolah untuk jenjang SD-SMP-SMA dengan Harga Eceran Tertinggi dari pemerintah sesuai dengan SK BSKAP Kemendikbudristek RI No. 020/HP/P/2022
             </p>
-            <a href="{{url('buku')}}" class="btn btn-primary">Lihat Selengkapnya</a>
+            {{-- <a href="{{url('buku')}}" class="btn btn-primary">Lihat Selengkapnya</a> --}}
           </div>
         </div>
       </div>
@@ -79,7 +83,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
         <p class="card-text">
           Buku pelajaran sekolah dengan Kurikulum Merdeka untuk jenjang SD-SMP-SMA yang disusun oleh Tim Penulis SAE SMART dan diterbitkan oleh CV. SAE GROUP
         </p>
-        <a href="{{url('buku')}}" class="btn btn-primary">Lihat Selengkapnya</a>
+        {{-- <a href="{{url('buku')}}" class="btn btn-primary">Lihat Selengkapnya</a> --}}
       </div>
     </div>
   </div>

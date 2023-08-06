@@ -113,7 +113,20 @@
 
     {{-- KEAGAMAAAN --}}
     <h2 class="text-center fw-bold bg-primary text-white mt-3">KATALOG BUKU KEAGAMAAN SAE BAROKAH KURIKULUM MERDEKA</h2>
-    
+    <div class="row">
+      <div class="d-flex justify-content-center col-md-3">
+        <div class="bg-image hover-overlay ripple m-3 shadow-1-strong rounded" data-mdb-ripple-color="light"
+          style="max-width: 20rem;">
+          <img src="img/katalog/agama/1.png" class="w-100" alt="Louvre" />
+          <a href="https://drive.google.com/file/d/1MG7n5JIuKg7u30YoAtvtTMG4KF8NCmo6/view?usp=sharing" target="_blank">
+            <div class="mask text-light d-flex justify-content-center flex-column text-center"
+              style="background-color: rgba(0, 0, 0, 0.7)">
+              <strong class="m-0 fs-6 ">DOWNLOAD</strong>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
     {{-- KEAGAMAAN --}}
   </div>
 

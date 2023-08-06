@@ -12,12 +12,16 @@
         <ul class="nav flex-column">
             <li class="nav-item">RT03/RW02 Dsn.Koripan</a></li>
             <li class="nav-item">Ds. Bangsongan Kec. Kayen Kidul</a></li>
-            <li class="nav-item">Kab. Kediri</a></li>
+            <li class="nav-item">Kab. Kediri Jawa Timur Indonesia 64183 </a></li>
         </ul>
       </div>
   
       <div class="col mb-3">
-  
+        <h5>IKUTI KAMI</h5>
+        <ul class="nav flex-column">
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><i class="bi bi-instagram me-2"></i><span>@sae_smartgroup</span></a></li>
+          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><i class="bi bi-youtube me-2"></i><span>SAE Smart</span></a></li>
+        </ul>
       </div>
   
       <div class="col mb-3">
@@ -31,11 +35,13 @@
       </div>
   
       <div class="col mb-3">
-        <h5>IKUTI KAMI</h5>
-        <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><i class="bi bi-instagram me-2"></i><span>@sae_smartgroup</span></a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted"><i class="bi bi-youtube me-2"></i><span>SAE Smart</span></a></li>
-        </ul>
+        <ul class="nav flex-column" style="max-width: 10rem">
+          <li class="nav-item mb-4"><a href="https://siplah.blibli.com/merchant-detail/SSSM-0001?itemPerPage=40&page=0&merchantId=SSSM-0001" target="_blank" class="nav-link p-0 text-muted"><img src="img/toko/blibli.png" class="img-fluid"></a></li>
+          <li class="nav-item mb-4"><a href="https://www.mbizmarket.co.id/p/sae-group-ORM0y/catalog" target="_blank" class="nav-link p-0 text-muted"><img src="img/toko/mbizmarket.png" class="img-fluid"></a></li>
+          <li class="nav-item mb-4"><a href="https://siplahtelkom.com/store/138360-sae-group" class="nav-link p-0 text-muted" target="_blank"><img src="img/toko/telkom.png" class="img-fluid"></a></li>
+          <li class="nav-item mb-4"><a href="https://siplah.temprina.co.id/store/sae-smart?buku=&kelas=" class="nav-link p-0 text-muted" target="_blank"><img src="img/toko/temprina.png" class="img-fluid"></a></li>
+          <li class="nav-item mb-4"><a href="https://siplah.tokoladang.co.id/official-store/smart-group.28927" class="nav-link p-0 text-muted" target="_blank"><img src="img/toko/toko ladang.png" class="img-fluid"></a></li>
+      </ul>
       </div>
   
       <div class="col mb-3">

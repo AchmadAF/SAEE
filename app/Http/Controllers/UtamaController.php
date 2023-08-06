@@ -31,4 +31,9 @@ class UtamaController extends Controller
     {
         return view('kontak');
     }
+
+    public function marketplace()
+    {
+        return view('marketplace');
+    }
 }
