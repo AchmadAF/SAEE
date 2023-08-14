@@ -36,4 +36,19 @@ class UtamaController extends Controller
     {
         return view('marketplace');
     }
+
+    public function company()
+    {
+        return view('company');
+    }
+
+    public function portofolio()
+    {
+        return view('portofolio');
+    }
+
+    public function lowongan()
+    {
+        return view('lowongan');
+    }
 }

@@ -13,7 +13,7 @@
             <b>Alamat</b>
             <p>Dsn.Koripan Rt.03 Rw.02 Ds.Bangsongan  Kec. Kayen Kidul Kab. Kediri Jawa Timur Indonesia 64183</p>
             <b>Telepon</b>
-            <p>0821 4066 6588</p>
+            <p>+62-858-5037-4699</p>
             <b>Jam Kerja</b>
             <p>Buka : 8:00AM - Tutup : 18:00PM | Sabtu - Minggu : Libur</p>
         </div>
