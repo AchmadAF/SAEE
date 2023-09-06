@@ -18,9 +18,9 @@
             <li class="nav-item">
               <a class="nav-link {{ Request::is('/') ? 'active' : '' }}" href="{{url('/')}}">Beranda</a>
             </li>
-            {{-- <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link {{ Request::is('buku') ? 'active' : '' }}" href="{{url('buku')}}">Buku</a>
-            </li> --}}
+            </li>
             <li class="nav-item">
               <a class="nav-link {{ Request::is('katalog') ? 'active' : '' }}" href="{{url('katalog')}}">Katalog</a>
             </li>
