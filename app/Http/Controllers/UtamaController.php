@@ -51,4 +51,9 @@ class UtamaController extends Controller
     {
         return view('lowongan');
     }
+
+    public function tes()
+    {
+        return view('tes');
+    }
 }
