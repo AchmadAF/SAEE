@@ -16,11 +16,11 @@
 
 <div class="container mb-5 mt-5">
 <div class="row">
-  <h1 class="text-center">SAMPLE BUKU KEAGAMAAN </h1>
-  <div class="d-flex justify-content-center col-md-3">
-    <div class="bg-image hover-overlay ripple m-3 shadow-1-strong rounded" data-mdb-ripple-color="light"
-      style="max-width: 20rem;">
-      <img src="img/katalog/agama/1.png" class="w-100" alt="Louvre" />
+  
+  <div class="d-flex justify-content-center col-md">
+    <div class="bg-image hover-overlay ripple m-3  rounded" data-mdb-ripple-color="light"
+      style="max-width: 30rem;">
+      <img src="img/buku/list/sd.png" class="w-100" alt="Louvre" />
       {{-- <a href="https://drive.google.com/file/d/1MG7n5JIuKg7u30YoAtvtTMG4KF8NCmo6/view?usp=sharing" target="_blank">
         <div class="mask text-light d-flex justify-content-center flex-column text-center"
           style="background-color: rgba(0, 0, 0, 0.7)">
@@ -30,34 +30,31 @@
     </div>
   </div>
   <div class="col">
-    <ul class="nav nav-tabs" id="myTab">
-      <li class="nav-item">
-          <a href="#home" class="nav-link active" data-bs-toggle="tab">Deskripsi</a>
-      </li>
-      <li class="nav-item">
-          <a href="#profile" class="nav-link" data-bs-toggle="tab">Deskripsi</a>
-      </li>
-      <li class="nav-item">
-          <a href="#messages" class="nav-link" data-bs-toggle="tab">Deskripsi</a>
-      </li>
-  </ul>
-  <div class="tab-content">
-      <div class="tab-pane fade show active" id="home">
-          <h4 class="mt-2">Home tab content</h4>
-          <p>Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui. Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth.</p>
-      </div>
-      <div class="tab-pane fade" id="profile">
-          <h4 class="mt-2">Profile tab content</h4>
-          <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
-      </div>
-      <div class="tab-pane fade" id="messages">
-          <h4 class="mt-2">Messages tab content</h4>
-          <p>Donec vel placerat quam, ut euismod risus. Sed a mi suscipit, elementum sem a, hendrerit velit. Donec at erat magna. Sed dignissim orci nec eleifend egestas. Donec eget mi consequat massa vestibulum laoreet. Mauris et ultrices nulla, malesuada volutpat ante. Fusce ut orci lorem. Donec molestie libero in tempus imperdiet. Cum sociis natoque penatibus et magnis.</p>
-      </div>
-  </div>
+    <h1 class="fw-bold m-0">Buku Pesantren Ramadhan</h1>
+    <p class="fs-3 fw-lighter m-0">untuk SD/MI</p>
+    <p class="fs-4 fw-bold text-danger m-0">Rp -</p>
+    <p class="m-0 mt-2">Penulis</p>
+    <p class="fw-bold fs-5">Isdana Zulfah, M.Pd.</p>
+    <p class="m-0">ISBN</p>
+    <p class="fw-bold fs-5">-</p>
+    <p class="m-0">Cover</p>
+    <p class="fw-bold fs-5">Soft Cover</p>
+    <p class="m-0">Halaman</p>
+    <p class="fw-bold fs-5">56 Halaman</p>
+    <p class="m-0">Berat</p>
+    <p class="fw-bold fs-5">200 gr</p>
+    <p class="m-0">Ukuran</p>
+    <p class="fw-bold fs-5">19 x 27,5 cm</p>
   </div>
 </div>
-    
+    <div class="row">
+      <div class="container"><hr></div>
+      <div class="container" style="text-align: justify;">
+        Buku Pesantren Ramadhan hadir sebagai buku yang berisi penjelasan mengenai pengertian dan dasar hukum puasa ramadhan, syarat sah, syarat wajib & rukun dalam menjalankan ibadah puasa, panduan amalan dan ibadah wajib dan sunah di bulan Ramadhan, beserta lembar kegiatan harian di bulan ramadhan untuk pelajar jenjang SD/MI/sederajat.
+      </div>
+      <div class="container mt-4 text-center">
+        <div class="btn btn-danger">HABIS</div>
+      </div>
+    </div>
 </div>
-
 @endsection
