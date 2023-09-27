@@ -52,8 +52,18 @@ class UtamaController extends Controller
         return view('lowongan');
     }
 
-    public function tes()
+    public function sd()
     {
-        return view('tes');
+        return view('sd');
+    }
+
+    public function smp()
+    {
+        return view('smp');
+    }
+
+    public function sma()
+    {
+        return view('sma');
     }
 }

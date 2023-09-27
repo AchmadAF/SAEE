@@ -24,7 +24,9 @@ Route::get('/marketplace', [UtamaController::class,'marketplace']);
 Route::get('/company-profile', [UtamaController::class,'company']);
 Route::get('/portofolio', [UtamaController::class,'portofolio']);
 Route::get('/lowongan-pekerjaan', [UtamaController::class,'lowongan']);
-Route::get('/tes', [UtamaController::class,'tes']);
+Route::get('/sd', [UtamaController::class,'sd']);
+Route::get('/smp', [UtamaController::class,'smp']);
+Route::get('/sma', [UtamaController::class,'sma']);
 
 Auth::routes();
 
